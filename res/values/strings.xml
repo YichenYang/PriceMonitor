@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pricer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="get_price">GetPrice</string>
+	<string name="register">Register</string>
+	<string name="SearchHint">Search products..</string>
+	<string name="Search">Search</string>
+	<string name="Product">Product: </string>
+	<string name="Price">Price: </string>
+	<string name="Provider">Provider: </string>
+	<string name="SingleItem">SingleItem</string>
+</resources>
